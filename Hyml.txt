@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title> my first web page</title>
+		
+	</head>
+ <body>
+	 <h1> Different types of laptops </h1>
+	 <p>As there are many different kinds of laptops there are many brands from which we can buy laptops such as:</p> 
+	 <li> Dell </li>
+	 <li>  samsung </li>
+	 <li>   Apple</li>
+ </body>
+</html>
